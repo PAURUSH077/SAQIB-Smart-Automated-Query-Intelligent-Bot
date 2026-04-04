@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pyaudio
+google-generativeai
+python-dotenv
+selenium
+webdriver-manager
